@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{39FBEC06-7724-47D3-B0B5-01120EF4CC08}</ProjectGuid>
+    <ProjectGuid>{D81804AB-2FCD-4AB0-9E3D-FCE46A852A82}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp1</RootNamespace>
-    <AssemblyName>ConsoleApp1</AssemblyName>
+    <RootNamespace>LR02</RootNamespace>
+    <AssemblyName>LR02</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Ducks\Ducks.csproj">
-      <Project>{b24f510a-61e4-429a-8b05-77a6fcf02739}</Project>
+      <Project>{1c13b717-4ad7-4255-8731-177be2e3f02d}</Project>
       <Name>Ducks</Name>
     </ProjectReference>
   </ItemGroup>
