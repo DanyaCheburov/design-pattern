@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{3ABF892A-DCA0-4C98-BC3F-F4E5DA8F0206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ducks", "Ducks\Ducks.csproj", "{CAB30337-F7A0-4F60-B234-298E79ED538E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABF892A-DCA0-4C98-BC3F-F4E5DA8F0206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABF892A-DCA0-4C98-BC3F-F4E5DA8F0206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABF892A-DCA0-4C98-BC3F-F4E5DA8F0206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABF892A-DCA0-4C98-BC3F-F4E5DA8F0206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB30337-F7A0-4F60-B234-298E79ED538E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB30337-F7A0-4F60-B234-298E79ED538E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB30337-F7A0-4F60-B234-298E79ED538E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB30337-F7A0-4F60-B234-298E79ED538E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6CF0E1D-F9D6-4EEE-8C30-3BFB36BE2FA6}
+	EndGlobalSection
+EndGlobal
